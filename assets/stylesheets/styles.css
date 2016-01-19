@@ -1,0 +1,55 @@
+h1 {
+	color: tomato;
+}
+
+.center-it {
+	text-align: center;
+}
+
+.w500 {
+	width: 500px;
+}
+
+.w300 {
+	width: 300px;
+}
+
+.h100 {
+	height: 100px;
+}
+
+.pic-rounder {
+	border-radius: 20px;
+}
+
+#hometron, #homefoot {
+	background: url("../images/fields-of-green.jpeg") no-repeat center center fixed;
+	background-size: cover;
+	margin-bottom: 0px;
+}
+
+#biotron, #biofoot {
+	background: url("../images/starry-skies.jpeg") no-repeat center center fixed;
+	background-size: cover;
+	margin-bottom: 0px;
+}
+
+#rps {
+	margin-top: 80px;
+}
+
+.rps-pics {
+	height: 250px;
+	width: 250px;
+}
+
+#rock-text, #paper-text, #scissor-text {
+  position: absolute;
+  width: 75%;
+  text-align: center;
+  top: 125px;
+}
+
+.invisible {
+	display: none;
+}
